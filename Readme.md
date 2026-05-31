@@ -24,4 +24,4 @@
 
 ## 🗣️ Languages
 - **Hebrew:** Native
-- **English:** Fluent
+- **English:** Proficient
