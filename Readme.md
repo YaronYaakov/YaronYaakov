@@ -1,4 +1,4 @@
-# Hi, I'm Yaron 👋 
+# Hi, I'm Yaron 👨‍💻 
 
 - 🎓 **Computer Science B.Sc. graduate (GPA: 80)** from **Afeka**, specializing in **Full-Stack Web & .NET Development**.
 - 📜 **Web Applications Course** graduate from **John Bryce**.
