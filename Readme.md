@@ -11,7 +11,7 @@
 
 ### 🌐 Frontend
 - Angular, React.js
-- 
+  
 ### 💻 Programming Languages
 - Python, Java, C#, C / C++, JavaScript, TypeScript, HTML5, CSS3
 
