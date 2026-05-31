@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shani 👩🏻‍💻
 
-- 👩🏻‍🎓 Computer Science graduate (2025) from Afeka, with a specialization in Mobile Development GPA: 86.
+- 👩🏻‍🎓 Computer Science graduate (2025) from Afeka, with a specialization in Full Stack Web & .Net Development GPA: 80.
 - 📱 Mobile Developer @BayBridgeDigital 
 - 🧭 TourTrack – my internship, a tourism app built for the Lower Galilee Regional Council, serving as a social network for travelers
 - 👩‍🏫 Programming mentor at **Queen B** – specializing as **Front-End Lead** (HTML, CSS, and JavaScript)  
