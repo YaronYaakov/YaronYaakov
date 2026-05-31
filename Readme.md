@@ -1,20 +1,21 @@
 # Hi, I'm Yaron 👋 
 
-- 🎓 **Computer Science graduate (GPA: 80)** from Afeka, specializing in Full-Stack Web & .NET Development.
-- 💻 **Junior Software Developer** | Full-Stack Web Development.
-- 👯 I’m looking to collaborate on Full Stack projects!
+- 🎓 **Computer Science B.Sc. graduate (GPA: 80)** from **Afeka**, specializing in **Full-Stack Web & .NET Development**.
+- 📜 **Web Applications Course** graduate from **John Bryce**.
+- 💻 **Junior Software Developer** | Full-Stack Web  Development.
 - 📫 How to reach me: yaronyaakov9@gmail.com
+
 ---
 
 ## 💡 Technologies I Work With
 
 ### 🌐 Frontend
-- Angular, React, JavaScript, TypeScript, HTML5, CSS3
-
+- Angular, React.js
+- 
 ### 💻 Programming Languages
-- Python, Java, C#, C / C++, JavaScript, TypeScript
+- Python, Java, C#, C / C++, JavaScript, TypeScript, HTML5, CSS3
 
-### ⚙️ Backend Frameworks & Runtimes
+### ⚙️ Backend Frameworks
 - Node.js, ASP.NET Core Web API
 
 ### 🗄️ Databases
