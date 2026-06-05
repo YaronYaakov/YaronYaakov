@@ -1,4 +1,4 @@
-# Hi, I'm Yaron 👨🏻‍💻
+# Hello, I'm Yaron 👨🏻‍💻
 - 🎓 **Computer Science B.Sc. graduate (GPA: 80)** from **Afeka Tel Aviv Academic College of Engineering**
 - 📜 **Web Applications Course** graduate from **John Bryce**.
 - 💻 **Junior Software Developer** | Full-Stack Web & .Net Development.
