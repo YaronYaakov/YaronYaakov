@@ -9,7 +9,7 @@
 ## 💡 Technologies I Work With
 
 ### 🌐 Frontend
-- Angular, React.js, WinForms
+- Angular 21, React.js 19, WinForms
   
 ### 💻 Programming Languages
 - Python, Java, C#, C / C++, JavaScript, TypeScript, HTML5, CSS3
